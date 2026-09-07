@@ -1,5 +1,5 @@
 {
-  "version": "9.01",
-  "url": "https://github.com/RizwanAbbassamtia/9sigma-updates/releases/download/v9.01/Install-9SigmaAutomation.exe",
-  "notes": "First release."
+  "version": "9.02",
+  "url": "https://github.com/RizwanAbbassamtia/9sigma-updates/releases/download/v9.02/Install-9SigmaAutomation.exe",
+  "notes": "Smooth dissolves, per-clip fade buttons, smarter trimming, 1080p export."
 }
