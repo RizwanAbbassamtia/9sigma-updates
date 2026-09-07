@@ -1,5 +1,5 @@
 {
-  "version": "9.02",
-  "url": "https://github.com/RizwanAbbassamtia/9sigma-updates/releases/download/v9.02/Install-9SigmaAutomation.exe",
-  "notes": "Smooth dissolves, per-clip fade buttons, smarter trimming, 1080p export."
+  "version": "9.04",
+  "url": "https://github.com/RizwanAbbassamtia/9sigma-updates/releases/download/v9.04/Install-9SigmaAutomation.exe",
+  "notes": "New installer that needs nothing else on the machine and never fails silently. Cuts never land on a word; wordless clips are two seconds; clean clips start approved. Check cut (A), Use full clip, a retake sheet beside every export, a missing-clip report. Export is 2.6x faster and cannot hang. Automate menu: optional production pipeline (off by default)."
 }
