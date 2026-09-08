@@ -1,5 +1,5 @@
 {
-  "version": "9.04",
-  "url": "https://github.com/RizwanAbbassamtia/9sigma-updates/releases/download/v9.04/Install-9SigmaAutomation.exe",
-  "notes": "New installer that needs nothing else on the machine and never fails silently. Cuts never land on a word; wordless clips are two seconds; clean clips start approved. Check cut (A), Use full clip, a retake sheet beside every export, a missing-clip report. Export is 2.6x faster and cannot hang. Automate menu: optional production pipeline (off by default)."
+  "version": "9.05",
+  "url": "https://github.com/RizwanAbbassamtia/9sigma-updates/releases/download/v9.05/Install-9SigmaAutomation.exe",
+  "notes": "9.05: Master log (shared title queue + unattended worker + editor emails), Omni Flash connected to its API document (address entered beside the key), reviewed and hardened; installer now ships samples and docs. 210 tests."
 }
