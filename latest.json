@@ -1,5 +1,8 @@
 {
-  "version": "9.07",
-  "url": "https://github.com/RizwanAbbassamtia/9sigma-updates/releases/download/v9.07/Install-9SigmaAutomation.exe",
-  "notes": "9.07: five editor accounts added (furqan, mazhar, somi, asad, shah). Everything from 9.06: a number per framework record, the master log's first step explained."
+  "version": "9.08",
+  "url": "https://github.com/RizwanAbbassamtia/9sigma-updates/releases/download/v9.08/Install-9SigmaAutomation.exe",
+  "notes": "9.08: start from an existing script and its scene prompts (file or pasted), multi-line prompts, a scene table with Generate selected / missing and Regenerate as a new take, Run this stage only; Cinematic continuity join style with per-join override and Play join; Split, Remove left/right, Delete, Mute, Undo/Redo on the timeline; update banner with release notes, Later remembered, checked downloads, Check for updates in the Account menu. Joins no longer freeze a frame or drift.",
+  "sha256": "44ef06940a77e0ac06380e122d921c01d055440a29de0b96c38324f70d2c95d3",
+  "size": 346143125,
+  "built": "2026-09-09T15:52:35"
 }
