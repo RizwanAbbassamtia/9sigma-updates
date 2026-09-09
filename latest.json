@@ -1,5 +1,5 @@
 {
-  "version": "9.06",
-  "url": "https://github.com/RizwanAbbassamtia/9sigma-updates/releases/download/v9.06/Install-9SigmaAutomation.exe",
-  "notes": "9.06: a number per framework record (FW-001, FW-002, ...) shown in the list, form and emails; Master log asks 'Use this PC' or 'Choose a shared folder' with an explanation. Plus 9.05: Master log, Omni Flash to its API document, review hardening. 211 tests."
+  "version": "9.07",
+  "url": "https://github.com/RizwanAbbassamtia/9sigma-updates/releases/download/v9.07/Install-9SigmaAutomation.exe",
+  "notes": "9.07: five editor accounts added (furqan, mazhar, somi, asad, shah). Everything from 9.06: a number per framework record, the master log's first step explained."
 }
