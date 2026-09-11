@@ -1,8 +1,8 @@
 {
-  "version": "9.11",
-  "url": "https://github.com/RizwanAbbassamtia/9sigma-updates/releases/download/v9.11/Install-9SigmaAutomation.exe",
-  "notes": "9.11: Run from here with no production open now opens the setup wizard at that stage (start from Editing when you have the clips, from Clips when you have the scene prompts). Everything from 9.10 is included.",
-  "sha256": "3ca1f917ff08fcd11c9ac1b940fd1c17db16d92856f25f9b143ad7b674e23538",
-  "size": 346218095,
-  "built": "2026-09-11T12:04:07"
+  "version": "9.12",
+  "url": "https://github.com/RizwanAbbassamtia/9sigma-updates/releases/download/v9.12/Install-9SigmaAutomation.exe",
+  "notes": "9.12: the setup wizard no longer shows an error when it opens; the title fills itself from the clips folder or file you choose; batches keep batch-status.csv (episode, folder, status, stage, output) beside the batch and re-importing your sheet adds only new folders. Includes 9.11 (Run from here with nothing open opens the setup at that stage) and everything from 9.10.",
+  "sha256": "8a88f5b844e2d4e141e002e758f1a39d99b3affb60d0f7a1db646d1c4eadea17",
+  "size": 346220321,
+  "built": "2026-09-11T12:44:51"
 }
