@@ -1,8 +1,8 @@
 {
-  "version": "9.08",
-  "url": "https://github.com/RizwanAbbassamtia/9sigma-updates/releases/download/v9.08/Install-9SigmaAutomation.exe",
-  "notes": "9.08: start from an existing script and its scene prompts (file or pasted), multi-line prompts, a scene table with Generate selected / missing and Regenerate as a new take, Run this stage only; Cinematic continuity join style with per-join override and Play join; Split, Remove left/right, Delete, Mute, Undo/Redo on the timeline; update banner with release notes, Later remembered, checked downloads, Check for updates in the Account menu. Joins no longer freeze a frame or drift.",
-  "sha256": "44ef06940a77e0ac06380e122d921c01d055440a29de0b96c38324f70d2c95d3",
-  "size": 346143125,
-  "built": "2026-09-09T15:52:35"
+  "version": "9.10",
+  "url": "https://github.com/RizwanAbbassamtia/9sigma-updates/releases/download/v9.10/Install-9SigmaAutomation.exe",
+  "notes": "9.10: start from any stage and stop at any stage (Start From / Continue Until, Run from here, Open production list); batches of episodes run one after another with a sheet import; one automatic continuity engine and one final encode (no transition menus); wordless clips keep their content, repeated words trimmed; 16:9 / 9:16 follow the clips; a blank editor at sign-in and login details remembered; update notices from three sources with a Windows notification.",
+  "sha256": "64f5fd35da510aaa4331c6922edb44f249333d4c5dc8d3d2be4a8be99ef7b88a",
+  "size": 346199594,
+  "built": "2026-09-11T11:20:23"
 }
