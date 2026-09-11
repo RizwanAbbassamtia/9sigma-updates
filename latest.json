@@ -1,8 +1,8 @@
 {
-  "version": "9.13",
-  "url": "https://github.com/RizwanAbbassamtia/9sigma-updates/releases/download/v9.13/Install-9SigmaAutomation.exe",
-  "notes": "9.13: fixes from the first live Omni Flash run - a busy provider is waited for instead of stopping the stage, video links the server signs more than once download correctly, pay-as-you-go balance and price are shown and recorded; the episode row form fits the screen and Enter saves it. Includes 9.10-9.12.",
-  "sha256": "2f5b81ce6dd098da9c402ab9069db48f8bcffa450423fe7c238d0bf57be2a6f5",
-  "size": 346222449,
-  "built": "2026-09-11T16:09:29"
+  "version": "9.14",
+  "url": "https://github.com/RizwanAbbassamtia/9sigma-updates/releases/download/v9.14/Install-9SigmaAutomation.exe",
+  "notes": "9.14: Update now finishes by itself - the installer waits for the app to close, installs without a click and reopens the app; a downloaded installer is reused, not fetched twice; the next sign-in says Updated to 9.14 or offers the download again; the version shows in the title bar; the Omni Flash address works without https://; one installer at a time. Includes 9.10-9.13.",
+  "sha256": "2e308544fada6c32d0f043c7633f297f4925c3b82b91732322afac23834c8b92",
+  "size": 346229768,
+  "built": "2026-09-11T18:07:47"
 }
