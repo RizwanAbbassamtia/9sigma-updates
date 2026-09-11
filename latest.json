@@ -1,8 +1,8 @@
 {
-  "version": "9.10",
-  "url": "https://github.com/RizwanAbbassamtia/9sigma-updates/releases/download/v9.10/Install-9SigmaAutomation.exe",
-  "notes": "9.10: start from any stage and stop at any stage (Start From / Continue Until, Run from here, Open production list); batches of episodes run one after another with a sheet import; one automatic continuity engine and one final encode (no transition menus); wordless clips keep their content, repeated words trimmed; 16:9 / 9:16 follow the clips; a blank editor at sign-in and login details remembered; update notices from three sources with a Windows notification.",
-  "sha256": "36af74955fc5725153b1a634759b143b1493d1c280cfd95e11714de740a10f1f",
-  "size": 346216165,
-  "built": "2026-09-11T11:33:59"
+  "version": "9.11",
+  "url": "https://github.com/RizwanAbbassamtia/9sigma-updates/releases/download/v9.11/Install-9SigmaAutomation.exe",
+  "notes": "9.11: Run from here with no production open now opens the setup wizard at that stage (start from Editing when you have the clips, from Clips when you have the scene prompts). Everything from 9.10 is included.",
+  "sha256": "3ca1f917ff08fcd11c9ac1b940fd1c17db16d92856f25f9b143ad7b674e23538",
+  "size": 346218095,
+  "built": "2026-09-11T12:04:07"
 }
