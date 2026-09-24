@@ -1,8 +1,8 @@
 {
-  "version": "9.15",
-  "url": "https://github.com/RizwanAbbassamtia/9sigma-updates/releases/download/v9.15/Install-9SigmaAutomation.exe",
-  "notes": "9.15: trimming works again when a prompt list or note sits beside the clips (a stray text file was taken as the script and every clip was kept whole); Update now finishes by itself and reopens the app; a downloaded installer is reused; the version shows in the title bar; the Omni Flash address works without https://. Includes 9.10-9.13.",
-  "sha256": "ff9400eca754b566aeb81b7b8423c6a1db995ee5a9f0f19190c0aa8ef039fa09",
-  "size": 346230587,
-  "built": "2026-09-11T20:05:17"
+  "version": "9.16",
+  "url": "https://github.com/RizwanAbbassamtia/9sigma-updates/releases/download/v9.16/Install-9SigmaAutomation.exe",
+  "notes": "9.16: every export is recorded in the team sheet (date, editor, laptop, title, number of clips, total clip length, exported video length); each editor account works on one laptop only; new accounts and passwords for the whole team; sign-in stays fast when Google is slow. Includes 9.10-9.15.",
+  "sha256": "67f2eea60959f4dc735d5d31f535b887f50d278e36b5daef6985cfe71b1a44e2",
+  "size": 346287869,
+  "built": "2026-09-23T18:06:17"
 }
