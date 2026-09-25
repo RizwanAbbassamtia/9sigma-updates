@@ -1,8 +1,8 @@
 {
-  "version": "9.16",
-  "url": "https://github.com/RizwanAbbassamtia/9sigma-updates/releases/download/v9.16/Install-9SigmaAutomation.exe",
-  "notes": "9.16: every export is recorded in the team sheet (date, editor, laptop, title, number of clips, total clip length, exported video length); each editor account works on one laptop only; new accounts and passwords for the whole team; sign-in stays fast when Google is slow. Includes 9.10-9.15.",
-  "sha256": "67f2eea60959f4dc735d5d31f535b887f50d278e36b5daef6985cfe71b1a44e2",
-  "size": 346287869,
-  "built": "2026-09-23T18:06:17"
+  "version": "9.17",
+  "url": "https://github.com/RizwanAbbassamtia/9sigma-updates/releases/download/v9.17/Install-9SigmaAutomation.exe",
+  "notes": "9.17: Long exports (60, 90 or 120 minutes) are made in five-minute parts, each checked as it finishes. The progress bar shows part, percent, encoder, speed and time left. A frozen graphics encoder no longer freezes the export: that part is retried on the processor within about three minutes. An export that stops (crash, power cut, closed window) continues from its finished parts when exported again to the same file name. The finished video is checked; a short one is reported, not saved. Sound now stays exactly in step with the picture over a long episode (it used to run a third of a second ahead by the end of an hour). Closing the app during an export asks first. Includes 9.10-9.16.",
+  "sha256": "3fe3edd929f99b88256ab41c7a92b5cc7feb31a577f4e3ec918b005c28a71378",
+  "size": 346308627,
+  "built": "2026-09-25T02:48:25"
 }
