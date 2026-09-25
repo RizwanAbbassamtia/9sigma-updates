@@ -1,8 +1,8 @@
 {
-  "version": "9.17",
-  "url": "https://github.com/RizwanAbbassamtia/9sigma-updates/releases/download/v9.17/Install-9SigmaAutomation.exe",
-  "notes": "9.17: Long exports (60, 90 or 120 minutes) are made in five-minute parts, each checked as it finishes. The progress bar shows part, percent, encoder, speed and time left. A frozen graphics encoder no longer freezes the export: that part is retried on the processor within about three minutes. An export that stops (crash, power cut, closed window) continues from its finished parts when exported again to the same file name. The finished video is checked; a short one is reported, not saved. Sound now stays exactly in step with the picture over a long episode (it used to run a third of a second ahead by the end of an hour). Closing the app during an export asks first. Includes 9.10-9.16.",
-  "sha256": "3fe3edd929f99b88256ab41c7a92b5cc7feb31a577f4e3ec918b005c28a71378",
-  "size": 346308627,
-  "built": "2026-09-25T02:48:25"
+  "version": "9.18",
+  "url": "https://github.com/RizwanAbbassamtia/9sigma-updates/releases/download/v9.18/Install-9SigmaAutomation.exe",
+  "notes": "9.18: New, simpler passwords for every editor account (the first three letters of your name and three digits; the admin sends you yours). Usernames are unchanged. Nothing else changes from 9.17. Includes 9.10-9.17.",
+  "sha256": "95822a975a2edfed60c264b40d6214e70442d3d5386e07295cff2531947566e3",
+  "size": 346309867,
+  "built": "2026-09-25T16:54:35"
 }
