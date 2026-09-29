@@ -1,8 +1,8 @@
 {
-  "version": "9.20",
-  "url": "https://github.com/RizwanAbbassamtia/9sigma-updates/releases/download/v9.20/Install-9SigmaAutomation.exe",
-  "notes": "9.20: a clip whose file stops before its stated length (a download that broke off) no longer stops the export - it is cut to where the file really ends and the edit log says how much is missing. Includes 9.10-9.19.",
-  "sha256": "fb148bbea3289a0c678e7cd60bedc84cd44f276f2bd33fea43a01389ddb6d0ed",
-  "size": 346316106,
-  "built": "2026-09-29T13:56:16"
+  "version": "9.21",
+  "url": "https://github.com/RizwanAbbassamtia/9sigma-updates/releases/download/v9.21/Install-9SigmaAutomation.exe",
+  "notes": "9.21: four new editor accounts - sabir1, sabir2, sabir3 and sabir4, one for each laptop; the admin sends each editor their password. Nothing else changes from 9.20. Includes 9.10-9.20.",
+  "sha256": "a003be90130010b2f28f3a94c736a4c2d4ba69809c1d7eaea51b986b2612cdce",
+  "size": 346315207,
+  "built": "2026-09-29T14:34:17"
 }
