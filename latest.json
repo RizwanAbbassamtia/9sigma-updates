@@ -1,8 +1,8 @@
 {
-  "version": "9.19",
-  "url": "https://github.com/RizwanAbbassamtia/9sigma-updates/releases/download/v9.19/Install-9SigmaAutomation.exe",
-  "notes": "9.19: a clip the export cannot cut is repaired on the spot and the export goes on (a download cut short is used up to where it ends, and the edit log says so); when a clip cannot be repaired the message gives ffmpeg's reason next to it; each finished segment is checked in the background while the next one encodes, so exports finish sooner; analysis runs up to three clips at once. Includes 9.10-9.18.",
-  "sha256": "42462d9e9b51be1f32b700de8f686ac9a64214eb2b3d3b1f2fad87122ce1aa49",
-  "size": 346315450,
-  "built": "2026-09-28T22:12:02"
+  "version": "9.20",
+  "url": "https://github.com/RizwanAbbassamtia/9sigma-updates/releases/download/v9.20/Install-9SigmaAutomation.exe",
+  "notes": "9.20: a clip whose file stops before its stated length (a download that broke off) no longer stops the export - it is cut to where the file really ends and the edit log says how much is missing. Includes 9.10-9.19.",
+  "sha256": "fb148bbea3289a0c678e7cd60bedc84cd44f276f2bd33fea43a01389ddb6d0ed",
+  "size": 346316106,
+  "built": "2026-09-29T13:56:16"
 }
