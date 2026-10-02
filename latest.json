@@ -1,8 +1,8 @@
 {
-  "version": "9.22",
-  "url": "https://github.com/RizwanAbbassamtia/9sigma-updates/releases/download/v9.22/Install-9SigmaAutomation.exe",
-  "notes": "9.22: the export no longer stops with 'the segment is 305.75 s, not 305.82 s' - a segment's planned length now follows the picture on the frame grid, and a repaired clip ends on a whole frame. If an export stopped with that message, update and press Export again to the same file. Includes 9.10-9.21.",
-  "sha256": "83b2fdec9be7be33d3a34bcd460ad2445c2122b9e7f33f6ce2a3cea9ca9b78d2",
-  "size": 385398437,
-  "built": "2026-10-02T20:14:22"
+  "version": "9.23",
+  "url": "https://github.com/RizwanAbbassamtia/9sigma-updates/releases/download/v9.23/Install-9SigmaAutomation.exe",
+  "notes": "9.23: the export is now planned in whole frames - every clip piece, every five-minute segment and the finished file are counted frame by frame, so 'the segment is 305.75 s, not 305.82 s' cannot come back. A clip at 24 or 25 fps no longer carries a fraction of a frame of sound past its picture; a clip whose file stops early is measured before the export starts and cut to its real end; a segment that does not add up names the clip at fault instead of being encoded three times. If an export stopped with that message, update and press Export again to the same file: the finished segments are kept. Includes 9.10-9.22.",
+  "sha256": "f8c5b817b864409cde8f2f30b6976926e89f770c5e61018c7d93039eb7cfc3db",
+  "size": 385403168,
+  "built": "2026-10-02T22:27:09"
 }
