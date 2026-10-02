@@ -1,8 +1,8 @@
 {
-  "version": "9.21",
-  "url": "https://github.com/RizwanAbbassamtia/9sigma-updates/releases/download/v9.21/Install-9SigmaAutomation.exe",
-  "notes": "9.21: four new editor accounts - sabir1, sabir2, sabir3 and sabir4, one for each laptop; the admin sends each editor their password. Nothing else changes from 9.20. Includes 9.10-9.20.",
-  "sha256": "a003be90130010b2f28f3a94c736a4c2d4ba69809c1d7eaea51b986b2612cdce",
-  "size": 346315207,
-  "built": "2026-09-29T14:34:17"
+  "version": "9.22",
+  "url": "https://github.com/RizwanAbbassamtia/9sigma-updates/releases/download/v9.22/Install-9SigmaAutomation.exe",
+  "notes": "9.22: the export no longer stops with 'the segment is 305.75 s, not 305.82 s' - a segment's planned length now follows the picture on the frame grid, and a repaired clip ends on a whole frame. If an export stopped with that message, update and press Export again to the same file. Includes 9.10-9.21.",
+  "sha256": "83b2fdec9be7be33d3a34bcd460ad2445c2122b9e7f33f6ce2a3cea9ca9b78d2",
+  "size": 385398437,
+  "built": "2026-10-02T20:14:22"
 }
