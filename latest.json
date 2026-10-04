@@ -1,8 +1,8 @@
 {
-  "version": "9.23",
-  "url": "https://github.com/RizwanAbbassamtia/9sigma-updates/releases/download/v9.23/Install-9SigmaAutomation.exe",
-  "notes": "9.23: the export is now planned in whole frames - every clip piece, every five-minute segment and the finished file are counted frame by frame, so 'the segment is 305.75 s, not 305.82 s' cannot come back. A clip at 24 or 25 fps no longer carries a fraction of a frame of sound past its picture; a clip whose file stops early is measured before the export starts and cut to its real end; a segment that does not add up names the clip at fault instead of being encoded three times. If an export stopped with that message, update and press Export again to the same file: the finished segments are kept. Includes 9.10-9.22.",
-  "sha256": "f8c5b817b864409cde8f2f30b6976926e89f770c5e61018c7d93039eb7cfc3db",
-  "size": 385403168,
-  "built": "2026-10-02T22:27:09"
+  "version": "9.24",
+  "url": "https://github.com/RizwanAbbassamtia/9sigma-updates/releases/download/v9.24/Install-9SigmaAutomation.exe",
+  "notes": "9.24: four more editor accounts, sabir5 to sabir8, one per laptop (an account keeps the first laptop it signs in on). Nothing else changes from 9.23. Includes 9.10-9.23.",
+  "sha256": "581767e3030d1481db473ebffe6ca2f43967e18aa62c5d6592f3754263b3635e",
+  "size": 385403940,
+  "built": "2026-10-04T11:07:32"
 }
