@@ -1,8 +1,8 @@
 {
-  "version": "9.24",
-  "url": "https://github.com/RizwanAbbassamtia/9sigma-updates/releases/download/v9.24/Install-9SigmaAutomation.exe",
-  "notes": "9.24: four more editor accounts, sabir5 to sabir8, one per laptop (an account keeps the first laptop it signs in on). Nothing else changes from 9.23. Includes 9.10-9.23.",
-  "sha256": "581767e3030d1481db473ebffe6ca2f43967e18aa62c5d6592f3754263b3635e",
-  "size": 385403940,
-  "built": "2026-10-04T11:07:32"
+  "version": "9.25",
+  "url": "https://github.com/RizwanAbbassamtia/9sigma-updates/releases/download/v9.25/Install-9SigmaAutomation.exe",
+  "notes": "9.25: one more editor account, rizwan1. Nothing else changes from 9.24. Includes 9.10-9.24.",
+  "sha256": "f9612253dd58242f45b3e1f06d296e6bc261f1f5429d463e904dd0d22f7073b8",
+  "size": 385403815,
+  "built": "2026-10-10T15:03:25"
 }
