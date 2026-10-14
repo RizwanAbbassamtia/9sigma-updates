@@ -1,8 +1,8 @@
 {
-  "version": "9.25",
-  "url": "https://github.com/RizwanAbbassamtia/9sigma-updates/releases/download/v9.25/Install-9SigmaAutomation.exe",
-  "notes": "9.25: one more editor account, rizwan1. Nothing else changes from 9.24. Includes 9.10-9.24.",
-  "sha256": "f9612253dd58242f45b3e1f06d296e6bc261f1f5429d463e904dd0d22f7073b8",
-  "size": 385403815,
-  "built": "2026-10-10T15:03:25"
+  "version": "9.26",
+  "url": "https://github.com/RizwanAbbassamtia/9sigma-updates/releases/download/v9.26/Install-9SigmaAutomation.exe",
+  "notes": "9.26: the export no longer stops with 'its sound is N samples, not M' - the frame rate is read from the picture track itself, each piece's sound is cut to its exact length, and a sound track that starts late is padded at its start. If an export stopped with that message, update and press Export again to the same file: the finished segments are kept. Also five more editor accounts (rizwan2 to rizwan5, sabir9). Includes 9.10-9.25.",
+  "sha256": "0482cd25eff0271aff20867ef0748feadee11061f08a6f7d831c10b2931cfeb1",
+  "size": 385406526,
+  "built": "2026-10-14T13:22:14"
 }
